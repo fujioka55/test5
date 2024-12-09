@@ -203,8 +203,6 @@
 	],
 	"halfPeriodCopyRoyaltyPayList": [
 		  {
-			  "<igx-checkbox class="checkbox"></igx-checkbox>": "<igx-checkbox class="checkbox_1"></igx-checkbox>",
-			  "": "<button igxButton="contained" type="button" igxRipple class="button_10">詳細</button>",
 			  "申請区分": "要確認",
 			  "経理進捗": "",
 			  "著者（コード：名称）": "12345：著者Ａ",
@@ -220,8 +218,6 @@
 			  "印税額（税抜）": 37500
 		  },
 		  {
-			  "<igx-checkbox class="checkbox"></igx-checkbox>": "<igx-checkbox class="checkbox_1"></igx-checkbox>",
-			  "": "<button igxButton="contained" type="button" igxRipple class="button_10">詳細</button>",
 			  "申請区分": "要確認",
 			  "経理進捗": "支払確定",
 			  "著者（コード：名称）": "20001：著者Ｂ",
@@ -237,8 +233,6 @@
 			  "印税額（税抜）": 18750
 		  },
 		  {
-			  "<igx-checkbox class="checkbox"></igx-checkbox>": "<igx-checkbox class="checkbox_1"></igx-checkbox>",
-			  "": "<button igxButton="contained" type="button" igxRipple class="button_10">詳細</button>",
 			  "申請区分": "要確認",
 			  "経理進捗": "支払繰越",
 			  "著者（コード：名称）": "20002：著者Ｃ",
@@ -254,8 +248,6 @@
 			  "印税額（税抜）": 62500
 		  },
 		  {
-			  "<igx-checkbox class="checkbox"></igx-checkbox>": "<igx-checkbox class="checkbox_1"></igx-checkbox>",
-			  "": "<button igxButton="contained" type="button" igxRipple class="button_10">詳細</button>",
 			  "申請区分": "申請済",
 			  "経理進捗": "",
 			  "著者（コード：名称）": "20003：著者Ｄ",
@@ -271,8 +263,6 @@
 			  "印税額（税抜）": 42500
 		  },
 		  {
-			  "<igx-checkbox class="checkbox"></igx-checkbox>": "<igx-checkbox class="checkbox_1"></igx-checkbox>",
-			  "": "<button igxButton="contained" type="button" igxRipple class="button_10">詳細</button>",
 			  "申請区分": "申請済",
 			  "経理進捗": "支払確定",
 			  "著者（コード：名称）": "2000000004：権利者Ｅ",
@@ -288,8 +278,6 @@
 			  "印税額（税抜）": 22500
 		  },
 		  {
-			  "<igx-checkbox class="checkbox"></igx-checkbox>": "<igx-checkbox class="checkbox_1"></igx-checkbox>",
-			  "": "<button igxButton="contained" type="button" igxRipple class="button_10">詳細</button>",
 			  "申請区分": "申請済",
 			  "経理進捗": "支払繰越",
 			  "著者（コード：名称）": "2000000005：権利者Ｆ",
